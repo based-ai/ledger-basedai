@@ -1,4 +1,4 @@
-module github.com/memeticofficial/ledger-pepecoin/go
+module github.com/based-ai/ledger-basedai/go
 
 go 1.19
 
